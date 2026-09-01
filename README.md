@@ -324,3 +324,27 @@ This allows management to distinguish between:
                        │
                        ▼
                🔵 MONITOR KPIs
+
+
+```
+## 👤 Author
+<div align="center">
+Yash Prajapati
+Data Analytics • Power BI • SQL • DAX
+
+Building business-focused analytics solutions that connect:
+
+Data → Insight → Action
+
+<br> <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=000000"> <img src="https://img.shields.io/badge/SQL-Analytics-336791?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/DAX-Business%20Logic-7B61FF?style=flat-square"> </div>
+
+
+<div align="center">
+⭐ Supply Chain Analytics
+
+From operational data to management action.
+
+If you find this project useful, consider giving the repository a ⭐
+
+</div> 
+```
