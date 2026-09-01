@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Unit_Cost_GBP,Selling_Price_GBP
+P001,Wireless Mouse,Accessories,12,22
+P002,Keyboard,Accessories,18,32
+P003,USB-C Hub,Accessories,28,49
+P004,Laptop Stand,Accessories,22,39
+P005,Webcam,Accessories,35,59
+P006,Headset,Accessories,32,55
+P007,Monitor 24in,Displays,115,169
+P008,Monitor 27in,Displays,185,259
+P009,SSD 1TB,Storage,58,89
+P010,SSD 2TB,Storage,105,149
+P011,RAM 16GB,Components,42,69
+P012,RAM 32GB,Components,78,119
+P013,HDMI Cable,Cables,8,15
+P014,USB-C Cable,Cables,10,18
+P015,Power Bank,Power,25,42
+P016,Router,Networking,48,79
+P017,Printer,Printers,95,139
+P018,External HDD,Storage,62,95
+P019,Docking Station,Accessories,125,179
+P020,Bluetooth Speaker,Audio,38,65
